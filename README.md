@@ -1,0 +1,2 @@
+# gcimg
+img para globalclean
